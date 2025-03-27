@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteShare", "WriteShare\WriteShare.csproj", "{F4E1893B-96AB-4AF8-A799-5DDC04A86021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4E1893B-96AB-4AF8-A799-5DDC04A86021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E1893B-96AB-4AF8-A799-5DDC04A86021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E1893B-96AB-4AF8-A799-5DDC04A86021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E1893B-96AB-4AF8-A799-5DDC04A86021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
